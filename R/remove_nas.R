@@ -38,4 +38,3 @@ remove_nas <- function(data, var_names) {
   # 返回结果数据框和清理后的数据框
   return(list(NA_Counts = na_counts_df, CleanedData = data))
 }
-
