@@ -1,3 +1,4 @@
+export(cox_model)
 export(logistic_model)
 export(na_count)
 export(remove_nas)
